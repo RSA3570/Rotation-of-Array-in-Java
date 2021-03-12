@@ -32,4 +32,5 @@ public class GeometricProgression {
             curr_term = a * (int)Math.pow(r, i);
         }
     }
+
 }
